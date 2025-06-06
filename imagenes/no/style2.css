@@ -1,0 +1,30 @@
+
+body { 
+    text-align: center; 
+}
+nav a 
+{ 
+    margin: 0 15px; 
+    text-decoration: none; 
+    font-weight: bold; 
+}
+.seccion 
+{ 
+    padding: 20px 0; 
+}
+.block { 
+    padding: 20px;
+    background: #f8f9fa; 
+    border-radius: 8px; 
+}
+img { 
+    max-width: 150px; 
+    height: auto; 
+    height:150px;
+}
+
+.libros { 
+    display: flex; 
+    justify-content: center; 
+    gap: 20px; 
+    flex-wrap: wrap; }
